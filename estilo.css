@@ -1,0 +1,19 @@
+body {
+	background: #ccc;
+}
+
+#titulo, .subtitulo, .sub {
+	color: blue;
+
+}
+
+.sub {
+	font-size: 16px;
+	font-style: italic;
+}
+.post {
+	background: #cc0;
+	padding: 10px;
+	border: 3px solid #000;
+	margin: 10px;
+}
